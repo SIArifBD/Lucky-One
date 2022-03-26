@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Razer Book 13",
+        "price": 190000,
+        "img": "https://www.notebookcheck.net/uploads/tx_nbc2/4zu3_Razer_Blade_15_Advanced_Model_2020.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Microsoft Surface Go 2",
+        "price": 52000,
+        "img": "https://www.onmsft.com/wp-content/uploads/2021/12/Surface-Laptop-Studio-Hero.png"
+    },
+    {
+        "id": 3,
+        "name": "Acer Extensa 15",
+        "price": 41500,
+        "img": "https://m.media-amazon.com/images/I/71sesDsw95L._AC_SL1500_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Lenovo IdeaPad Slim 3i",
+        "price": 36700,
+        "img": "https://www.gizmochina.com/wp-content/uploads/2019/03/Lenovo-ideapad-720S-Notebook.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Asus Vivobook X515MA",
+        "price": 35500,
+        "img": "https://cdn.media.amplience.net/i/currysprod/10230137?$l-large$&fmt=auto"
+    },
+    {
+        "id": 6,
+        "name": "Dell Inspiron 15",
+        "price": 36800,
+        "img": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large_wm_brb/public/field/image/2018/08/dell-xps-15-9570-backcover.jpg"
+    },
+    {
+        "id": 7,
+        "name": "HP 15s-du1115TU",
+        "price": 33200,
+        "img": "https://www.xda-developers.com/files/2021/04/Best-HP-laptops.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Apple MacBook Air",
+        "price": 98450,
+        "img": "https://cdn.mos.cms.futurecdn.net/uWjEogFLUTBc8mSvagdiuP.jpg"
+    },
+    {
+        "id": 9,
+        "name": "MSI Modern 14",
+        "price": 46900,
+        "img": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTE3UlFkVXRNYkwuX0FDX1NMMTAyNF8uanBn.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Xiaomi RedmiBook Pro",
+        "price": 71500,
+        "img": "https://static.digit.in/default/fdab1f4d3adb09da8d5b0a681b7845d67c9ba8fa.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "AVITA Essential",
+        "price": 29100,
+        "img": "https://i.gadgets360cdn.com/large/avita_essential_1603715720628.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Gigabyte Aorus 5",
+        "price": 89500,
+        "img": "https://m.media-amazon.com/images/I/71dwPztbmGS._AC_SX450_.jpg"
+    }
+]

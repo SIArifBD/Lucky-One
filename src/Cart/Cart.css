@@ -1,0 +1,23 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.btn-choose-one{
+    width: 200px;
+    background: #0694f3;
+    border: none;
+    border-radius: 0px 0px 8px 8px;
+    margin-bottom: 20px;
+}
+.btn-choose-again{
+    width: 200px;
+    background: #0694f3;
+    border: none;
+    border-radius: 0px 0px 8px 8px;
+}
+.btn-choose-one:hover{
+    background-color: tomato;
+}
+.btn-choose-again:hover{
+    background-color: tomato;
+}
