@@ -1,6 +1,7 @@
 .cart{
     position: sticky;
     top: 0;
+    background: gainsboro;
 }
 .btn-choose-one{
     width: 200px;
