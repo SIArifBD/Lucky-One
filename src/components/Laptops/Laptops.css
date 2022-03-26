@@ -13,3 +13,28 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+@media screen and (max-width: 950) {
+    .laptops-shop-container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .laptops-container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (max-width: 800px) {
+    .laptops-shop-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .cart-container{
+        width: 80%;
+        margin-left: 40px;
+        margin-top: 10px;
+        order: 1;
+    }
+    .laptops-container{
+        order: 2;
+    }
+}
