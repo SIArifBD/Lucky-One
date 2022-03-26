@@ -21,3 +21,13 @@
 .btn-choose-again:hover{
     background-color: tomato;
 }
+@media (max-width: 950px) {
+}
+@media (max-width: 800px) {
+  .btn-choose-one {
+    margin-left: 35px;
+  }
+  .btn-choose-again {
+    margin-left: 35px;
+  }
+}
